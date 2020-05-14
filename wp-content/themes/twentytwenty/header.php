@@ -34,10 +34,6 @@
 
 			<div class="header-inner section-inner">
 
-				<?php
-				 echo "Dev update code"
-				?>
-
 				<div class="header-titles-wrapper">
 
 					<?php
