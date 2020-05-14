@@ -34,10 +34,6 @@
 
 			<div class="header-inner section-inner">
 
-				<?php
-		echo "new code"
-		?>
-
 				<div class="header-titles-wrapper">
 
 					<?php
