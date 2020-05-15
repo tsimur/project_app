@@ -33,6 +33,9 @@
 		<header id="site-header" class="header-footer-group" role="banner">
 
 			<div class="header-inner section-inner">
+				<?php
+				echo "Dev code new"
+				?>
 
 				<div class="header-titles-wrapper">
 
