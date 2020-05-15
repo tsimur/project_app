@@ -34,6 +34,9 @@
 
 			<div class="header-inner section-inner">
 
+				<?php
+				echo "update code"
+				?>
 
 				<div class="header-titles-wrapper">
 
